@@ -1,6 +1,6 @@
 ## APP link: https://first-movie-app.netlify.app/
 
-## This was my one of the first projects when I started to learn React.js. I had forgotten to push it.
+## This was my one of the first projects when I started to learn React.js
 
 USED IN: Axios, CSS, React.js 
 
